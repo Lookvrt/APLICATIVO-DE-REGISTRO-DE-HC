@@ -1,4 +1,3 @@
-<img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/922e2777-b063-4b44-bc6c-04e903845385" />
 # Sistema de registros de Historias Clinicas
 
 Aplicativo desarrollado 100% en netbeans con interfaces de java swing y almacenamiento de datos en binarios (.bin)
