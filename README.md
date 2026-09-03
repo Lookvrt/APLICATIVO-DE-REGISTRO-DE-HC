@@ -23,6 +23,13 @@ Aplicativo desarrollado 100% en netbeans con interfaces de java swing y almacena
 
 <img width="692" height="388" alt="Video Project" src="https://github.com/user-attachments/assets/5e48e568-422f-4e16-8895-d91faf48ac73" />
 
+## 🏹 Objetivo del proyecto
+
+- Implementar JDBC: Enlazar el código con el motor de base de datos aplicando el patrón DAO para las operaciones CRUD.
+- Refactorizar la arquitectura: Reestructurar el proyecto para cumplir con un patrón MVC estricto.
+- Migrar el Backend: Trasladar la lógica de negocio a un entorno web utilizando Spring Boot.
+- Desarrollar el Frontend: Construir el apartado visual con HTML, CSS y JavaScript, enfocándose en un diseño responsivo, estética limpia y la integración de gráficos estadísticos para la clínica.
+
 ## Autor
 
 - [@LookVrt](https://github.com/Lookvrt)
