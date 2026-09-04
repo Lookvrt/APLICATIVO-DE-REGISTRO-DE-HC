@@ -1,6 +1,37 @@
+# ==========================================
+# Compilación y salidas (Java & Maven)
+# ==========================================
+*.class
 build/
 dist/
+out/
+target/
+
+# ==========================================
+# Entornos de Desarrollo (IDEs)
+# ==========================================
+# Visual Studio Code & metadatos de Java
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans / Ant
 nbproject/
 build.xml
+
+# ==========================================
+# Archivos de datos locales y del sistema
+# ==========================================
 *.bin
 *.dat
+*.log
+.DS_Store
+Thumbs.db
